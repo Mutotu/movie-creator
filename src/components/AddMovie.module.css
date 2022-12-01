@@ -24,3 +24,7 @@
   outline: none;
   border-color: #230052;
 }
+
+.error {
+  height: 2rem;
+}
